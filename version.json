@@ -10,10 +10,5 @@
     "name": "Website",
     "ico": "/website_icon.png", 
     "url": "https://yourwebsite.com"
-  },
-  "url_3": {
-    "name": "Discord",
-    "ico": "/discord_icon.png",
-    "url": "https://discord.gg/your_discord"
   }
 }
