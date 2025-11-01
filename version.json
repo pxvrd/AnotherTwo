@@ -10,5 +10,10 @@
     "name": "GitHub",
     "ico": "https://github.com/pxvrd/AnotherTwo/blob/main/GitHub-Logo.png?raw=true", 
     "url": "https://github.com/pxvrd"
+  },
+    "url_3": {
+    "name": "Example",
+    "ico": "https://github.com/pxvrd/AnotherTwo/blob/main/GitHub-Logo.png?raw=true", 
+    "url": "https://example.com"
   }
 }
